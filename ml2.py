@@ -62,3 +62,8 @@ print(y)
 line = plt.plot(x, y)
 
 plt.show()
+
+
+
+
+
